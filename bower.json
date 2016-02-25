@@ -1,5 +1,5 @@
 {
-  "name": "Sortable",
+  "name": "SortableInput",
   "main": [
     "Sortable.js",
     "ng-sortable.js",
